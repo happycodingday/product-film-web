@@ -4,7 +4,9 @@
 
 **A beginner-friendly product promo video skill.** Create keynote-quality product films with no editing experience. Describe your product, and the AI designs the story and animations in a web-based workstation where you can play, interact, and screen-record your film.
 
-<video src="https://github.com/user-attachments/assets/c0856b06-a438-4490-9b31-4c6911426fb5" width="560" controls preload="metadata"></video>
+<video src="https://github.com/user-attachments/assets/c0856b06-a438-4490-9b31-4c6911426fb5" width="480" controls preload="metadata">
+  <a href="https://github.com/user-attachments/assets/c0856b06-a438-4490-9b31-4c6911426fb5">查看展示视频</a>
+</video>
 
 **Demo note: All products, brands, features, interfaces, and usage scenarios shown in the video are fictional simulations created to demonstrate the film, not real products or verified performance.**
 

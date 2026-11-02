@@ -1,0 +1,10 @@
+# Generated projects and local tooling
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.log

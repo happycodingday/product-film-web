@@ -1,0 +1,11 @@
+# Asset prompts
+
+Generated with the built-in image_gen tool. Project assets are local copies; both the product render and the street scene are AI-generated.
+
+## assets/luma-glasses.png
+
+Use case: product-mockup. Premium photorealistic industrial design render of ONE fictional AI smart glasses product for a launch film named LUMA (no visible typography). Thin sculptural matte graphite and brushed silver rectangular rounded optical frame, clear slightly blue smoke optical lenses, subtle camera in the outer upper temple, discreet tiny cyan indicator, elegant substantial temples integrating electronics. Exact object is everyday prescription-style AI glasses, NOT a VR headset, NOT ski goggles. Three quarter front perspective from slightly above with both temples extended elegantly toward upper right, sculptural flowing hinge. Beautiful studio CGI, precise metallic highlights, soft cool blue and lavender rim lighting, restrained specular reflections, looks like a luxury consumer electronics keynote product photograph. Glasses fill 85% of a wide 3:2 frame with generous safe margins on all sides. No people, no text, no logos, no stand, no other objects. Background must be truly transparent, preserve semi transparent lenses. Asset intended for dark graphite background.
+
+## assets/city.png
+
+Use case: photorealistic-natural. Asset: immersive first-person background photograph for a fictional AI glasses demo. Wide cinematic 16:9 view down a charming contemporary European city pedestrian street at blue hour, understated architectural facades on both sides, a beautiful warm illuminated cafe with terracotta storefront on the left, lush tree near left cafe, buildings and slightly curved pedestrian road leading into depth center right. Refined editorial travel photograph, realistic lighting, cool blue hour sky contrasting warm window interiors, moist stone pavement subtly reflecting warm light. Eye level composition, no foreground people, no cars, no obvious logos or legible signage, no text, NO AR overlay, no HUD, no glasses. The center should have clear ground space for UI navigation overlay which will be added in HTML. Quiet, premium cinematic atmosphere, not cyberpunk, no science fiction.

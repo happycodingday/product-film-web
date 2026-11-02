@@ -2,15 +2,15 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-Create a keynote-quality product promo with no editing experience: this skill builds a web studio where you can play animated scenes and record them as a video.
+**A beginner-friendly product promo video skill.** Create keynote-quality product films with no editing experience. Describe your product, and the AI designs the story and animations in a web-based workstation where you can play, interact, and screen-record your film.
 
 <video src="https://github.com/user-attachments/assets/c0856b06-a438-4490-9b31-4c6911426fb5" width="560" controls preload="metadata"></video>
 
-[Watch the demo video](https://github.com/user-attachments/assets/c0856b06-a438-4490-9b31-4c6911426fb5)
+**Demo note: All products, brands, features, interfaces, and usage scenarios shown in the video are fictional simulations created to demonstrate the film, not real products or verified performance.**
 
 ## What it does
 
-Describe a product and provide any useful materials. The AI designs the story, scenes, animation, and pacing, then delivers a local HTML film studio with playback and recording controls.
+Describe a product and provide any useful materials. The AI designs the story, scenes, animation, and pacing, then presents them in a locally runnable web-based workstation. Play, interact with, and screen-record the scenes to make your product promo video.
 
 - Keynote-style visuals: a dark stage, large gradient headlines, depth, and metallic display frames.
 - Original storytelling for each subject, including hardware, software, services, courses, brands, or ideas.

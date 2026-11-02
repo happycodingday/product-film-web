@@ -1,4 +1,4 @@
 interface:
   display_name: "Product Film Web"
-  short_description: "Create animated product promo websites without editing skills"
-  default_prompt: "Use $product-film-web to create a playable, recordable product promo website, using a polished keynote style and an original story and animation for this subject."
+  short_description: "Create product promo videos with a web-based animation studio"
+  default_prompt: "Use $product-film-web to create a product promo video through a playable, interactive, screen-recordable web-based workstation, using a polished keynote style and an original story and animation for this subject."

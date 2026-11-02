@@ -1,11 +1,11 @@
 ---
 name: product-film-web-skill
-description: Create keynote-style HTML product promo films without video-editing experience. Design an original story, scenes, and animations for a product or any subject, with autoplay, pause, seeking, interactive demos, and screen-recording controls. Use for animated product showcases and introductions, rather than ordinary static slide decks or edits of existing video footage.
+description: Create keynote-quality product promo videos without video-editing experience, using a web-based workstation for animated playback, interaction, and screen recording. Design an original story, scenes, and animations for a product or any subject, with autoplay, pause, seeking, interactive demos, and screen-recording controls. Use for animated product showcases and introductions, rather than ordinary static slide decks or edits of existing video footage.
 ---
 
 # Product Film Web
 
-Deliver a locally runnable HTML animation project that users can play, explore, and screen-record. Subjects can include physical products, software, services, courses, technologies, brands, events, or ideas. Use a polished keynote visual style by default: a graphite-black stage, large blue-to-lavender gradient headlines, layered cards, metallic presentation frames, a two-row player with a chapter strip, and a centered brand ending. Follow another style when requested. Build continuous visual storytelling rather than a sequence of static slides.
+Help users create product promo videos through a locally runnable web-based workstation for animation playback, interaction, and screen recording. Deliver the HTML project that serves as this workstation. Subjects can include physical products, software, services, courses, technologies, brands, events, or ideas. Use a polished keynote visual style by default: a graphite-black stage, large blue-to-lavender gradient headlines, layered cards, metallic presentation frames, a two-row player with a chapter strip, and a centered brand ending. Follow another style when requested. Build continuous visual storytelling rather than a sequence of static slides.
 
 ## Create an original film
 

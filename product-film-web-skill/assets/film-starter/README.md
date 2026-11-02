@@ -8,7 +8,7 @@ node serve.cjs
 
 Open http://localhost:4178/. If that port is occupied, run `node serve.cjs 4180`. No npm install is needed; do not open the HTML directly.
 
-The default `paperskill-theme.css` reuses the PaperSkill film's graphite stage, gradient headlines, layered cards, metallic frames, lower player controls, and numbered chapters. The example text is illustrative and includes no PaperSkill paper, company, or soundtrack.
+The default `launch-theme.css` provides a graphite stage, gradient headlines, layered cards, metallic frames, lower player controls, and numbered chapters. The starter text is illustrative; customize it for the product.
 
 Only the UI is reused. Independently design the story, scenes, visual treatment, and pacing for the subject. The five example chapters in `config.js` and rendering branches in `film.js` may be added to, removed, reordered, or replaced with new animation modules. Do more than change text and images.
 

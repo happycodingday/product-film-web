@@ -1,17 +1,17 @@
 ---
-name: product-film-web
-description: Create keynote-style HTML product promo films without video-editing experience. Design an original story, scenes, and animations for a product or any subject, with autoplay, pause, seeking, interactive demos, and screen-recording controls. Reuse the PaperSkill film UI by default; use for animated product showcases and introductions, rather than ordinary static slide decks or edits of existing video footage.
+name: product-film-web-skill
+description: Create keynote-style HTML product promo films without video-editing experience. Design an original story, scenes, and animations for a product or any subject, with autoplay, pause, seeking, interactive demos, and screen-recording controls. Use for animated product showcases and introductions, rather than ordinary static slide decks or edits of existing video footage.
 ---
 
 # Product Film Web
 
-Deliver a locally runnable HTML animation project that users can play, explore, and screen-record. Subjects can include physical products, software, services, courses, technologies, brands, events, or ideas. Use the PaperSkill film's visual language by default: a graphite-black stage, large blue-to-lavender gradient headlines, layered cards, metallic presentation frames, a two-row player with a chapter strip, and a centered brand ending. Follow another style when requested. Build continuous visual storytelling rather than a sequence of static slides.
+Deliver a locally runnable HTML animation project that users can play, explore, and screen-record. Subjects can include physical products, software, services, courses, technologies, brands, events, or ideas. Use a polished keynote visual style by default: a graphite-black stage, large blue-to-lavender gradient headlines, layered cards, metallic presentation frames, a two-row player with a chapter strip, and a centered brand ending. Follow another style when requested. Build continuous visual storytelling rather than a sequence of static slides.
 
-## Reuse the UI; invent the film
+## Create an original film
 
-PaperSkill is a reference for the visual shell: stage, typography, palette, materials, frames, and playback controls. Independently design the story, scenes, visual metaphors, actions, transitions, and pacing around the current subject, audience, and communication goal. Be creative with presentation while grounding product facts and claims in evidence.
+Use the built-in visual shell for stage, typography, palette, materials, frames, and playback controls. Design the story, scenes, visual metaphors, actions, transitions, and pacing around the current subject, audience, and communication goal. Be creative with presentation while grounding product facts and claims in evidence.
 
-The example's chapters, shot order, algorithm diagram, pottery metaphor, planning cards, and copy are not mandatory content. Add, remove, reorder, or rewrite scenes and animation modules; do more than swap names, images, and headlines. Make routine creative decisions without asking for approval. Ask only when missing facts or essential assets block meaningful progress. Use the user's requested language for the finished film; English skill instructions do not require English captions.
+The starter's chapters, shot order, layouts, and copy are examples, not mandatory content. Add, remove, reorder, or rewrite scenes and animation modules; do more than swap names, images, and headlines. Make routine creative decisions without asking for approval. Ask only when missing facts or essential assets block meaningful progress. Use the user's requested language for the finished film; English skill instructions do not require English captions.
 
 Match the medium to the subject. Software can use a real interface; physical products can use photography, video, models, and demonstrations; services can show experiences; concepts can show intuitions and examples. Do not force Agent input, algorithm diagrams, PPT sidebars, generation steps, or AI-error disclaimers onto unrelated subjects.
 
@@ -27,10 +27,10 @@ Match the medium to the subject. Software can use a real interface; physical pro
 1. Draft a compact shot list: purpose, headline, action, asset, hold time, and transition. Choose a structure for this subject; an attention → introduction → value/mechanism → experience → next-step arc is an option, not a fixed sequence.
 2. Optionally run `python scripts/init_film.py <new-folder> --brand <name>` for a dependency-free visual shell. Rewrite `config.js`, views, and animation modules around the shot list. The five starter chapters and renderer branches are replaceable demonstrations, not a required structure or finished user product.
 3. Drive scenes, typing, pointers, captions, product events, and audio from one master clock. Reconstruct any frame when seeking backward or forward. Independent CSS animation must not continue after pause. See [motion-runtime.md](references/motion-runtime.md).
-4. When an algorithm explanation benefits from it, use an overview → highlighted node → visual explanation → return-to-overview rhythm. For scene libraries, page planning, dual templates, or validation loops, consult [algorithm-shots.md](references/algorithm-shots.md). Never pass off a finished screenshot as a planning document.
+4. When explaining a mechanism or workflow, make the process tangible through relevant inputs, actions, and outcomes. Optional overview, scenario, and comparison techniques are in [process-shots.md](references/process-shots.md). Use them only when they help explain the product.
 5. Establish the subject's overall form before close-ups. Prefer same-origin iframes for real software, preserving its important navigation. For physical products and events, favor relevant photos, videos, or models. Keep illustrative and actual content distinguishable. Read [product-and-recording.md](references/product-and-recording.md) for software demonstrations, audio, and recording.
 
-The default shell is described in [paperskill-ui.md](references/paperskill-ui.md). Load `paperskill-theme.css` by default, while creating new narrative and animation content. Reference shot recipes apply only when they fit the subject. The [LUMA example](examples/luma-ai-glasses/README.md) demonstrates an original fictional hardware story within the same UI.
+The default shell is described in [visual-style.md](references/visual-style.md). Load `launch-theme.css` by default, while creating new narrative and animation content. Reference shot recipes apply only when they fit the subject.
 
 ## Visual decisions
 
